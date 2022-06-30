@@ -1,0 +1,60 @@
+Feature,Importance
+universo_servicios_recreativos,0.116690315
+pobmas,0.09032171
+universo_transporte_correos_y_almacenamiento,0.0896988
+universo_servicios_inmobiliarios_y_alquiler,0.06044112
+delitos_contra_familia,0.05702395
+department_type_loft,0.056033723
+universo_inf_medios_masivos,0.050406076
+universo_corporativos,0.048916075
+parking_lots,0.032351352
+universo_servicios_salud,0.02834329
+universo_servicios_educacion,0.025750326
+universo_comercio_al_por_menor,0.025513116
+num_bedrooms,0.023961961
+universo_alojamiento_alimentos_y_bebidas,0.023143647
+universo_construccion,0.02062836
+amenities,0.020396436
+num_floors,0.019292999
+universo_comercio_mayoreo,0.01893445
+universo_electricidad_agua_y_gas,0.017624822
+universo_ind_manofactura,0.016778281
+days_on_site,0.016142342
+m2,0.015232509
+universo_act_legislativas,0.01470601
+distancia_al_metro_mas_cercano,0.014285801
+since_value,0.011019925
+universo_servicios_excepto_gubernamentales,0.010451669
+bathrooms,0.010147381
+cellars,0.009844238
+universo_servicios_cientificos,0.008929929
+monthly_fee,0.008819387
+pobfem,0.008018599
+delitos_contra_patrimonio,0.0071714716
+pobtot,0.0063052424
+universo_servicios_negocios,0.005290427
+universo_servicios_financieros_y_seguros,0.0039402405
+apartments_per_floor,0.0035628849
+floor_situated,0.002887246
+universo_agricultura,0.0009939257
+delitos_contra_seguridad_sexual,0.0
+viviendas que no disponen de excusado o sanitario,0.0
+age_in_years,0.0
+lugar_que_ocupa_en_el_contexto_nacional,0.0
+irs,0.0
+viviendas que no disponen de refrigerador,0.0
+viviendas que no disponen de lavadora,0.0
+viviendas que no disponen de energía eléctrica,0.0
+viviendas que no disponen de drenaje,0.0
+viviendas que no disponen de agua entubada de la red pública,0.0
+población sin derechohabiencia a servicios de salud,0.0
+viviendas con piso de tierra,0.0
+delitos_contra_la_sociedad,0.0
+población de 15 años y más con educación básica incompleta,0.0
+población de 15 años o más analfabeta,0.0
+universo_mineria,0.0
+delitos_contra_libertad_personal,0.0
+total,0.0
+delitos_contra_otros_bienes_juridicos,0.0
+delitos_contra_la_vida_y_la_integridad_corporal,0.0
+población de 6 a 14 años que no asiste a la escuela,0.0

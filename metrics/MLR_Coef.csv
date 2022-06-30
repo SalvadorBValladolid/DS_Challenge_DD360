@@ -1,0 +1,60 @@
+Variable,Coef,Abs_Coef
+universo_mineria,-21757.77,21757.77
+department_type_loft,19421.47,19421.47
+num_bedrooms,-10234.74,10234.74
+parking_lots,5824.56,5824.56
+universo_corporativos,5020.66,5020.66
+apartments_per_floor,-3584.24,3584.24
+cellars,-3145.78,3145.78
+bathrooms,3052.13,3052.13
+universo_agricultura,-2568.77,2568.77
+num_floors,2160.85,2160.85
+universo_transporte_correos_y_almacenamiento,-1592.93,1592.93
+universo_servicios_recreativos,1425.24,1425.24
+universo_servicios_educacion,-1237.07,1237.07
+universo_electricidad_agua_y_gas,-1082.32,1082.32
+universo_inf_medios_masivos,914.83,914.83
+universo_construccion,-742.94,742.94
+floor_situated,597.68,597.68
+universo_servicios_inmobiliarios_y_alquiler,-532.57,532.57
+universo_act_legislativas,-479.53,479.53
+universo_comercio_mayoreo,-449.29,449.29
+universo_servicios_cientificos,407.28,407.28
+universo_servicios_excepto_gubernamentales,-308.23,308.23
+universo_servicios_financieros_y_seguros,296.05,296.05
+amenities,274.28,274.28
+universo_ind_manofactura,77.26,77.26
+pobfem,-60.31,60.31
+universo_servicios_negocios,44.48,44.48
+pobtot,39.13,39.13
+universo_servicios_salud,20.5,20.5
+delitos_contra_patrimonio,-16.35,16.35
+pobmas,-13.91,13.91
+delitos_contra_otros_bienes_juridicos,13.26,13.26
+universo_comercio_al_por_menor,11.93,11.93
+m2,-10.55,10.55
+days_on_site,-10.46,10.46
+delitos_contra_familia,6.39,6.39
+since_value,-5.98,5.98
+universo_alojamiento_alimentos_y_bebidas,5.58,5.58
+delitos_contra_la_vida_y_la_integridad_corporal,-3.55,3.55
+distancia_al_metro_mas_cercano,3.47,3.47
+total,3.3,3.3
+delitos_contra_seguridad_sexual,1.96,1.96
+monthly_fee,1.56,1.56
+delitos_contra_la_sociedad,0.93,0.93
+población de 15 años y más con educación básica incompleta,0.77,0.77
+delitos_contra_libertad_personal,0.66,0.66
+viviendas que no disponen de refrigerador,0.35,0.35
+viviendas que no disponen de lavadora,0.34,0.34
+viviendas que no disponen de excusado o sanitario,0.17,0.17
+lugar_que_ocupa_en_el_contexto_nacional,-0.11,0.11
+población sin derechohabiencia a servicios de salud,0.06,0.06
+población de 15 años o más analfabeta,0.05,0.05
+población de 6 a 14 años que no asiste a la escuela,-0.04,0.04
+viviendas con piso de tierra,0.01,0.01
+viviendas que no disponen de agua entubada de la red pública,0.01,0.01
+viviendas que no disponen de drenaje,0.01,0.01
+irs,0.01,0.01
+age_in_years,-0.0,0.0
+viviendas que no disponen de energía eléctrica,0.0,0.0
