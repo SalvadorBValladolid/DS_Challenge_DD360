@@ -21,7 +21,7 @@ metrics_mlr_path="metrics/metrics_mlr.json"
 metrics_xgbr_path="metrics/metrics_xgbr.json"
 model_mlr_path="models/model_xgbr.joblib.dat"
 model_xgbr_path="models/model_mlr.joblib.dat"
-
+## Modificacion 2
 
 # Read data
 train=pd.read_csv("data/train_reto_precios.csv")
